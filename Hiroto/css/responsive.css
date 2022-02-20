@@ -1,0 +1,886 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .manu-section .manu-area .manu-area_right .manu-area ul li {
+    margin: 0 13px;
+  }
+
+  .manu-section .manu-area .manu-area_right .manu-area ul li a {
+    font-size: 16px;
+  }
+
+  .manu-section .manu-area .manu-area_right .book-manu {
+    font-size: 15px;
+    min-width: 130px;
+    padding: 10px 10px;
+  }
+
+  .about-section .about-top-img img {
+    top: -185px;
+    width: 380px;
+  }
+
+  .about-section .about-top-img .pos-ab {
+    width: 420px;
+  }
+
+  .room-section .ex-text, .room-section .ex-butt {
+    margin-top: 65px;
+  }
+
+  .blog-section .blog-area .blog-text-item a.more-btn, .blog-section .blog-area .blog-text-item-left a.more-btn {
+    margin-top: 0;
+  }
+
+  .blog-section .blog-area .blog-text-item b, .blog-section .blog-area .blog-text-item-left b {
+    margin-bottom: 20px;
+  }
+
+  .footer-section .partner img {
+    margin-right: 44px;
+  }
+
+  .footer-section .footer-subs .f_input input {
+    width: 178px;
+  }
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+
+  .manu-section .manu-area .manu-area_right {
+    width: 70%;
+  }
+
+  .manu-section .manu-area .manu-area_right .manu-area ul li {
+    margin: 0 12px;
+  }
+
+  .slider-section .slider-area h2 {
+    font-size: 60px;
+    line-height: 76px;
+  }
+
+  .slider-section .form-info .booking-info {
+    padding: 24px 50px;
+  }
+
+  .slider-section .form-info .booking-info .info_single {
+    margin-right: 13px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker input {
+    width: 160px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker4, .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker5 {
+    width: 160px;
+  }
+
+  .slider-section .form-info .booking-info_link {
+    height: 136px;
+    line-height: 136px;
+  }
+
+  .about-section .about-top-img .pos-ab {
+    top: 120px;
+    left: 10px;
+    width: 400px;
+  }
+
+  .about-section .about-top-img img {
+    top: -238px;
+    width: 400px;
+  }
+
+  .about-section .about-text {
+    padding-top: 0;
+  }
+
+  .about-section .about-text .about-hed {
+    margin-bottom: 12px;
+    font-size: 14px;
+  }
+
+  .about-section .about-text .ab-main {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+
+  .service-section .service-area .h6-item {
+    font-size: 22px;
+  }
+
+  .service-section .service-area .service-area_icon {
+    margin-bottom: 22px;
+  }
+
+  .service-section .service-area p {
+    line-height: 28px;
+    font-size: 14px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item {
+    height: 400px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item .sin-item_item-text p {
+    margin-top: 10px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item .sin-item_item-text b {
+    font-size: 18px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item .sin-item_item-text p span {
+    font-size: 35px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item .item-text_ab {
+    top: 330px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item .sin-item_item-text {
+    top: 308px;
+  }
+
+  .room-section .room-title_text .room_text {
+    margin-bottom: 16px;
+    font-size: 16px;
+  }
+
+  .room-section .room-title_text h4 {
+    font-size: 36px;
+  }
+
+  .room-section.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .room-section .ex-text, .room-section .ex-butt {
+    margin-top: 50px;
+  }
+
+  .testimonials .testimonials_img-area img {
+    max-width: 450px;
+    min-height: 550px;
+  }
+
+  .testimonials .testimonials_text-area {
+    padding: 0px 0px 30px 30px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test--span {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test-heaadind {
+    font-size: 30px;
+    line-height: 2.2rem;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first {
+    margin-bottom: 0;
+  }
+
+  .chose .chose_area h3 {
+    margin-top: 25px;
+  }
+
+  .gallery-section .gallery_text--left span {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .gallery-section .mb {
+    margin-bottom: 40px;
+  }
+
+  .gallery-section .gallery_text--left h4 {
+    font-size: 33px;
+    line-height: 46px;
+  }
+
+  .gallery-section .gallery_text--right a {
+    margin-top: 10px;
+  }
+
+  .gallery-section.section-padding {
+    padding-bottom: 0px;
+  }
+
+  .gallery-section .gallery-single-item img {
+    width: 501px;
+    height: 500px;
+  }
+
+  .blog-section .blog-area-text span {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .blog-section .blog-area-text h4 {
+    font-size: 40px;
+    margin-bottom: 65px;
+  }
+
+  .blog-section .blog-area .blog-text-item a.more-btn, .blog-section .blog-area .blog-text-item-left a.more-btn {
+    margin-top: 0;
+  }
+
+  .blog-section .blog-area .blog-item img {
+    height: 250px;
+  }
+
+  .blog-section .blog-area .blog-text-item b, .blog-section .blog-area .blog-text-item-left b {
+    margin-bottom: 15px;
+  }
+
+  .blog-text-item, .blog-text-item-left p {
+    line-height: 22px;
+  }
+
+  .footer-section .partner img {
+    margin-right: 40px;
+  }
+
+  .footer-section .partner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+  }
+
+  .footer-section .footer-subs .f_input input {
+    width: 180px;
+    margin-left: 0;
+  }
+
+  .footer-section .copyright--l, .footer-section .copyright--r {
+    margin-top: 30px;
+    padding: 20px 50px;
+  }
+}
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    width: 750px;
+  }
+
+  .manu-section .manu-area .manu-area_right .manu-area ul li a {
+    font-size: 16px;
+  }
+
+  .header-section {
+    display: none;
+  }
+
+  .manu-section {
+    position: fixed;
+  }
+
+  .manu-section .manu-area .manu-area_right .book-btn {
+    display: none;
+  }
+
+  .manu-section .manu-area .manu-area_right .manu-area ul li {
+    margin: 0;
+    margin-right: 18px;
+  }
+
+  .slider-section .slider-area .slide-span {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .slider-section .slider-area h2 {
+    font-size: 54px;
+    line-height: 70px;
+  }
+
+  .slider-section .form-info .booking-info {
+    width: 100%;
+  }
+
+  .slider-section .form-info .booking-info .info_single {
+    margin-right: 0;
+    width: 50%;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker .gj-datepicker .ti-angle-down {
+    right: 50px;
+  }
+
+  datepicker #datetimepicker4, .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker5 {
+    border-radius: 0;
+    width: 275px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker .gj-datepicker #person {
+    width: 275px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker4, .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker5 {
+    border-radius: 0;
+    width: 275px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker input {
+    width: 275px;
+  }
+
+  .slider-section .form-info .booking-info_link {
+    margin-top: 30px;
+    width: 100%;
+    background: transparent;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #000;
+    box-shadow: 1px 2px 20px #222;
+    transition: all 0.7s;
+  }
+  .slider-section .form-info .booking-info_link:hover {
+    background: #000;
+    color: #fff;
+  }
+
+  .about-section .about-text {
+    padding: 0px 30px;
+  }
+
+  .about-section .about-top-img img {
+    top: 0;
+    float: right;
+    width: 350px;
+  }
+
+  .about-section .about-top-img .pos-ab {
+    top: 245px;
+    width: 350px;
+    left: 150px;
+  }
+
+  .about-section .about-text .about-hed {
+    margin-bottom: 12px;
+  }
+
+  .about-section .about-text .ab-main {
+    font-size: 28px;
+    margin-bottom: 22px;
+    line-height: 1em;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item {
+    width: 50%;
+    margin-bottom: 15px;
+  }
+
+  .room-section .ex-text, .room-section .ex-butt {
+    margin-top: 20px;
+  }
+
+  .room-section.section-padding {
+    padding-bottom: 20px;
+    padding-top: 50px;
+  }
+
+  .testimonials .testimonials_img-area img {
+    max-width: 100%;
+    min-height: 100%;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test-heaadind {
+    font-size: 28px;
+    line-height: 2.2rem;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test--span {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .testimonials .testimonials_text-area {
+    padding: 0px 0px 30px 30px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first {
+    margin: 0px 45px 0px 0px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--secend-text .testmonials-para--grap {
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--secend-text .suport {
+    margin-top: 0px;
+    margin-bottom: 10px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--secend-text .suport .suport-name h6 {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+
+  .chose .chose_area h3 {
+    margin-top: 0;
+    margin-bottom: 25px;
+  }
+
+  .chose.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .gallery-section .gallery_text--left h4 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+
+  .gallery-section .gallery_text--left span {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  .gallery-section .gallery_text--right {
+    margin-left: 0px;
+  }
+
+  .gallery-section .gallery_text--right p {
+    line-height: 22px;
+  }
+
+  .gallery-section .gallery_text--right a {
+    margin-top: 0;
+  }
+
+  .mb {
+    margin-bottom: 30px;
+  }
+
+  .gallery-section .gallery-single-item img {
+    width: 520px;
+    height: 500px;
+  }
+
+  .blog-section.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .blog-section .blog-area-text span {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .blog-section .blog-area-text h4 {
+    font-size: 36px;
+    margin-bottom: 50px;
+  }
+
+  .blog-section .blog-area .blog-text-item {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .blog-section .blog-area .blog-item, .blog-text-item-left {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .blog-section .blog-area .blog-text-item-left {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .footer-section .partner img {
+    margin-right: 30px;
+    width: 116px;
+  }
+
+  .footer-section .partner {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 30px;
+  }
+
+  .footer-section .footer-manu-link {
+    width: 100%;
+  }
+
+  .footer-section .footer-subs .f_input input {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .history-section .history-area .history-area_left {
+    margin-left: -100px;
+  }
+
+  .history-section .history-area .history-area_left .history-area--left_elem img {
+    width: 250px;
+    height: 270px;
+  }
+}
+/* Extra small Device. */
+@media (max-width: 767px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .col-em-12 {
+    width: 100%;
+  }
+
+  .header-section {
+    display: none;
+  }
+
+  .manu-section .manu-area .manu-area_left img {
+    margin-top: -10px;
+    width: 20px;
+  }
+
+  .manu-section .manu-area .manu-area_left .logo {
+    font-size: 25px;
+  }
+
+  .manu-section {
+    position: fixed;
+    padding: 10px 0;
+  }
+  .manu-section .manu-area .manu-area_right a.book-btn {
+    display: none;
+  }
+  .manu-section .manu-area .manu-area_right .responsive-switch {
+    display: block;
+    cursor: pointer;
+    font-size: 26px;
+  }
+  .manu-section .manu-area .manu-area_right .manu-area {
+    display: none;
+    width: 100%;
+    margin-top: 50px;
+  }
+  .manu-section .manu-area .manu-area_right .manu-area ul.menu-list li {
+    display: block;
+    padding: 10px 0;
+  }
+  .manu-section .manu-area .manu-area_right .manu-area ul.menu-list li a {
+    color: #fff;
+  }
+  .manu-section .manu-area .manu-area_right .manu-area ul.menu-list li a:hover {
+    color: #E9AD28;
+  }
+  .manu-section .manu-area .manu-area_right .active {
+    display: block;
+  }
+
+  .slider-section {
+    height: 700px;
+  }
+
+  .slider-section .slider-area .slide-span {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .slider-section .slider-area h2 {
+    font-size: 26px;
+    line-height: 35px;
+  }
+
+  .slider-section .form-info .booking-info {
+    width: 100%;
+    padding: 12px 32px;
+  }
+
+  .slider-section .form-info .booking-info .info_single {
+    margin: 0;
+    display: flex;
+    width: 100%;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker .gj-datepicker #person {
+    padding: 10px;
+    width: 225px;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker4, .slider-section .form-info .booking-info .info_single .boking-datepicker #datetimepicker5 {
+    width: 225px;
+  }
+
+  .booking_item {
+    width: 30%;
+  }
+
+  .slider-section .form-info .booking-info .info_single .boking-datepicker input {
+    margin-bottom: 10px;
+  }
+
+  .slider-section .form-info .booking-info_link {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+  }
+
+  .slider-section .slider-area {
+    margin-top: 50px;
+  }
+
+  .about-section.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .about-section .about-text .about-hed {
+    margin-bottom: 10px;
+  }
+
+  .about-section .about-text {
+    padding: 10px;
+  }
+
+  .about-section .about-img {
+    display: none;
+  }
+  .about-section .about-text .ab-main {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  .about-section .about-text .about-paragraph {
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 10px;
+  }
+  .about-section .about-text img {
+    margin-top: 15px;
+  }
+
+  .service-section .service-area .service-area_icon {
+    margin-bottom: 10px;
+  }
+
+  .service-section .service-area .h6-item {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+
+  .service-section .service-area p {
+    line-height: 24px;
+    font-size: 14px;
+  }
+
+  .room-section .room-title_text .room_text {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .room-section .room-title_text h4 {
+    font-size: 34px;
+    margin-bottom: 45px;
+  }
+
+  .room-section.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .service-section {
+    padding-bottom: 50px;
+  }
+
+  .room-section .room-section_img--slide .img--slide_single-item {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .room-section .ex-text p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
+  .room-section .ex-text, .room-section .ex-butt {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+  .room-section .ex-butt a {
+    float: none;
+    top: 30px;
+  }
+
+  .testimonials .testimonials_img-area img {
+    max-width: 100%;
+    min-height: 100%;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first {
+    margin: 0px 45px 15px 0px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test--span {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--first .test-heaadind {
+    font-size: 28px;
+    line-height: 2.2rem;
+  }
+
+  .testimonials .testimonials_text-area .testimonials--secend-text .testmonials-para--grap {
+    margin-top: 32px;
+  }
+
+  .chose.section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .chose .chose_area p {
+    font-size: 16px;
+  }
+
+  .chose .chose_area h3 {
+    font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  .gallery-section .mb {
+    margin-bottom: 50px;
+  }
+
+  .gallery-section .gallery_text--left h4 {
+    font-size: 30px;
+    line-height: 39px;
+    margin-bottom: 20px;
+  }
+
+  .gallery-section .gallery_text--left span {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .gallery-section .gallery_text--right a {
+    padding: 10px 35px;
+    margin-top: 0px;
+  }
+
+  .gallery-section .gallery-single-item img {
+    width: 500px;
+    height: 500px;
+  }
+
+  .blog-section.section-padding {
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+
+  .blog-section .blog-area-text h4 {
+    font-size: 36px;
+    margin-bottom: 50px;
+  }
+
+  .blog-section .blog-area-text span {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+
+  .blog-section .blog-area .blog-item {
+    width: 50%;
+  }
+
+  .blog-section .blog-area .blog-item img {
+    width: 100%;
+    height: 261px;
+  }
+
+  .blog-section .blog-area .blog-text-item {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+
+  .blog-section .blog-area .blog-text-item-left {
+    position: relative;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+
+  .footer-section {
+    padding-top: 50px;
+  }
+
+  .footer-section .partner {
+    display: none;
+  }
+
+  .footer-section .footer-logo {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer-section .footer-manu-link {
+    width: 100%;
+  }
+
+  .footer-section .footer-manu-link .footer_manu h6 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .footer-subs {
+    margin-top: 25px;
+  }
+
+  .footer-section .footer-subs h6 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+
+  .footer-section .copyright--l {
+    text-align: center;
+  }
+
+  .footer-section .copyright--r {
+    text-align: center;
+  }
+
+  .history-section .history-area .history-area_left .history-area--left_elem p {
+    margin-top: 20px;
+    padding-left: 40px;
+  }
+
+  .history-section .history-area .history-area_right .history-area--right_elem p {
+    margin-top: 20px;
+    padding-right: 0px;
+  }
+
+  .history-section .history-area .history-area_left .history-area--left_elem img {
+    width: 200px;
+    height: 270px;
+  }
+
+  .history-section .history-area .history-area_left .history-area--left_elem h6 {
+    font-size: 16px;
+  }
+
+  .history-section .history-area .history-area_right .history-area--right_elem h6 {
+    font-size: 16px;
+  }
+}
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .container {
+    width: 550px;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */

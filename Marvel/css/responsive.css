@@ -1,0 +1,167 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.container{width: 970px;}
+.dnone{display: none;}
+.slider-area.owl-carousel.owl-loaded.owl-drag .owl-dots {
+	left: -265px;
+}
+.simpol-icon-expert{left: 17%;}
+	
+	.manu ul li {
+	margin-right: 30px;
+	}
+	.manu ul {
+	margin-left: 20px;
+}
+.about-top-area h3 {
+	font-size: 34px;
+	margin-left: 8%;
+}
+	.about-md-area {
+	padding: 0 10px;
+}
+.about-ex-number {
+	margin: 0px 62px;
+}
+.fetures-txt h3 {
+	margin-left: 30%;
+}
+.fetures-service h4 {
+	margin-left: 11px;
+	font-size: 17px;
+}
+.fetures-service p {
+	margin-left: 78px;
+	margin-top: -23px;
+	font-size: 16px;
+}
+.work-area h3 {
+	left: 40%;
+	margin-top: -50px;
+}
+.single-project-work-hover h4 {
+	font-size: 12px;
+	margin-left: 23px;
+}
+.single-project-work-hover h4 a {
+	display: none;
+}
+.single-project-work-hover h4 a i{display: none;}
+.single-project-work-hover h4 a:hover{
+	background: none;
+	color: #757575;
+	border: none;
+}
+.pricing-area h3 {
+	left: 34%;
+}
+.expert-main-area h3 {
+	left: 37%;
+}
+.news-service a {
+	margin: 0 35px;
+	margin-top: 80px;
+}
+.news-area-service h6 {
+	margin-left: 35px;
+}
+.news-area-service span {
+	margin-bottom: 12px;
+	margin-left: 20px;
+}
+.more-opction {
+	margin-left: 35px;
+}
+.footer-section {
+	min-height: 176px;
+}
+.expeart-area:hover .simpol-icon-expert {
+    margin-top: 90px;
+}
+.contact-text h3{
+	left:38%;
+}
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.container{width: 750px;}
+.col-md-6{width: 50%;}
+.col-md-4{width: 33.33%;}
+.col-md-3{width: 25%;}
+.dnone{display: none;}
+
+.slider-area.owl-carousel.owl-loaded.owl-drag .owl-dots {
+	left: -305px;
+}
+.manu ul li {
+    margin-right: 45px;
+    margin-bottom: 15px;
+}
+.about-top-area h3 {
+    margin-top: -38px;
+    font-size: 22px;
+    margin-left: 6%;
+}
+.about-md-area{
+	padding: 0 20px;
+}
+.about-ex-number {
+    margin: 0 33px;
+    margin-bottom: 50px;
+}
+.responsive-area{
+	float: left;
+}
+.fetures-txt h3{
+	margin-left: 22%;
+}
+.single-project-work-hover h4 a {display: none;}
+.single-project-work-hover h4 a i{display: none;}
+.work-area h3{left: 38%;}
+.service-area h3{font-size: 20px;}
+.pricing-area h3{left: 30%}
+.long-list li{line-height: 28px;}
+.preasing-bg-img h6{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.long-list{margin-top: 5px;}
+.preacing-area{min-height: 515px;margin-top: 90px}
+.pricing-section{
+	min-height: 860px;
+}
+.expert-main-area h3{left: 33%}
+.expert-area-service{margin-top: 50px;}
+.expeart-area{margin-bottom: 40px;}
+.single-news-area h3{left: 31%;}
+.news-area-service h6{margin-left: 95px}
+.news-area-service span{margin-left: 85px;margin-bottom: 20px}
+.news-area-service p{margin-bottom: 20px}
+.news-area-service{margin-top: 70px;margin-bottom: 20px;}
+.contact-text h3{left: 36%;}
+.contact-form textarea{min-height: 260px}
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.container{
+	width: 100%;
+	padding: 0 15px;
+}
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.container{width: 550px;}
+ 
+}

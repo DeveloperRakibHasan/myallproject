@@ -1,0 +1,132 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.container{width: 970px;}
+.slider-section .slider-area_option #person{
+	display: none;
+}
+.slider-section .slider-area .slider-area_text .slider_text-header{
+	font-size: 55px;
+}
+.slider-section .slider-area .slider-area_text .slider_text-paragraph {
+    line-height: 1.5;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.slider-section .slider-area .slider-area_text a{
+	display: block;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+element.style {
+}
+.about-section .section-title {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 210px;
+    padding: 30px 0px 100px;
+}
+
+element.style {
+}
+.about-section .about-text .cpp2 {
+    margin-left: 0px;
+}
+.about-section .about-text .section-title{
+	display: none;
+}
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.container{width: 750px;}
+
+.slider-section .slider-area_option #person, .slider-section .them-btn{
+	display: none;
+}
+.slider-section .slider-area_right .play-video-btn img{
+	display: none;
+}
+.about-section .section-title {
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 210px;
+    padding: 0px 0px 50px;
+}
+.about-section .section-title::before {
+    bottom: 40px;
+}
+.about-section .section-title::after {
+    bottom: 37px;
+}
+.about-section .about-text .section-title{
+	display: none;
+}
+.about-section .about-text h4 {
+    font-size: 26px;
+    margin-bottom: 16px;
+}
+.about-section .about-text p {
+    font-size: 14px;
+    padding-bottom: 0px;
+}
+.about-section .about-text .cpp2 {
+    margin-left: 0px;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.container{
+	width: 100%;
+	padding: 0 15px;
+}
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.container{width: 550px;}
+.slider-section .slider-area_option #person, .slider-section .them-btn{
+	display: none;
+}
+.slider-section .slider-area_right .play-video-btn img{
+	display: none;
+}
+.slider-section{
+	height: 100%;
+}
+.about-section .about-text .section-title{
+	display: none;
+}
+.about-section .about-text {
+    width: 100%;
+}
+.service-section .service_area {
+    margin-top: 60px;
+}
+.contact-section .contactinfo {
+  display: none;
+}
+
+.contact-section .contactForm {
+    padding: 30px 50px;
+    margin-left: 68px;
+    padding-left: 40px;
+    width: 100%;
+}
+.contact-section{overflow: hidden;}
+
+
+}
