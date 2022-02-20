@@ -88,11 +88,37 @@ element.style {
  
 /* Extra small Device. */
 @media (max-width: 767px) {
-.container{
-	width: 100%;
-	padding: 0 15px;
-}
- 
+.container{width: 100%;
+	padding: 0 15px;}
+.ex-sm{width: 50%;}
+.header-section #logo a{font-size: 30px;}
+.header-section .menu-area .overlay a{font-size: 30px;}
+.slider-section .fl-r{display: none;}
+.header-section .menu-area .menu-click{font-size: 30px;}
+.header-section{height: 80px;}
+.header-section .menu-area .overlay .closebtn{font-size: 40px;}
+.slider-section{height: 100%;}
+.slider-section .slider-area{margin-top: 0px;
+margin-left: 0px;}
+.slider-section .slider-area_right .play-video-btn img{display: none;}
+.slider-section .slider-area .slider-area_text .slider_text-paragraph{font-size: 14px;}
+.slider-section .them-btn{display: none;}
+.about-section .section-title {font-size: 12px;
+    padding: 20px 0px 97px 0;}
+    .ml{margin-left: 50px;}
+.about-section .section-title{margin-left: 200px;}
+.about-section .about-text p{font-size: 14px;}
+.about-section .about-text h4{margin-bottom: 20px;}
+.service-section .title{font-size: 80px;}
+.service-section .service_area{margin-top: 70px;}
+.work-section .title{font-size: 80px;}
+.contact-section .title{font-size: 80px;}
+.contact-section .contactinfo{display: none;}
+.contact-section .contactForm{padding-left: 0px;
+    margin-left: 6px;
+    padding: 10px;
+width: 100%;}
+
 }
  
 /* SM Small Device :550px. */
